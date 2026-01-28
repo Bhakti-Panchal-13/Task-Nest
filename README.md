@@ -166,3 +166,91 @@ To run tests, run the following command
 ![TaskNest](./public/task_nest_4.png)
 
 
+# 🚀 Further Enhancements (Beyond Delete & Status)
+1️⃣ Task Priority Levels
+
+Allow students to assign priority (High / Medium / Low) to each task.
+
+Helps students focus on urgent tasks first.
+
+Improves time management and productivity.
+
+2️⃣  Deadline Reminder
+
+Add a due date field while creating a task.
+
+Tasks nearing deadlines can be highlighted.
+
+Can be extended to show reminder notifications.
+
+3️⃣ Edit / Update Task
+
+Students can modify task details instead of creating a new task.
+
+Useful when assignment instructions change.
+
+4️⃣ Task Search & Filter
+
+Add a search bar to quickly find tasks.
+
+Filter tasks based on:
+
+Subject
+
+Due date
+
+Priority
+
+Very helpful when the task list grows large.
+
+5️⃣ Subject / Category Wise Tasks
+
+Allow grouping tasks by subjects like:
+
+DSA
+
+Web Development
+
+Mathematics
+
+Makes the app more organized for students.
+
+6️⃣ Persistent Storage & Backup
+
+Move from local JSON to:
+
+SQLite (better structure)
+
+Cloud database (future scope)
+
+Prevents data loss and improves reliability.
+
+7️⃣ Responsive & Accessibility Improvements
+
+Make the UI fully responsive for mobile and tablet users.
+
+Improve accessibility with:
+
+Keyboard navigation
+
+Better contrast & labels
+
+8️⃣ User Authentication (Advanced Scope)
+
+Allow students to log in using email or student ID.
+
+Each user gets their own task list.
+
+Makes the app multi-user and scalable.
+
+9️⃣ Analytics & Progress Tracking
+
+Show simple stats like:
+
+Total tasks added
+
+Tasks completed per week
+
+Motivates students to stay productive.
+
+
