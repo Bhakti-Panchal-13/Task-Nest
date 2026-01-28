@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "1769584134155",
+    "title": "repare NLP Module-3 Notes",
+    "description": "Study",
+    "subject": "NLP",
+    "category": "study",
+    "status": "pending",
+    "dueDate": "2026-02-01",
+    "createdAt": "2026-01-28T07:08:54.155Z"
+  },
+  {
+    "id": "1769584048656",
+    "title": "Complete Data Structures Assignment",
+    "description": "complete Array sorting and linked list",
+    "subject": "DSA",
+    "category": "assignment",
+    "status": "in-progress",
+    "dueDate": "2026-01-31",
+    "createdAt": "2026-01-28T07:07:28.656Z"
+  }
+]
