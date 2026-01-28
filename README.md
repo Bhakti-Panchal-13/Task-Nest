@@ -157,17 +157,12 @@ To run tests, run the following command
 
 ## Dashboard
 
-![TaskNest](./public
-/Screenshot 2026-01-28 123611.png
-)
+![TaskNest](./public/task_nest_1.png)
 ## Adding Task
-![TaskNest](./public/Screenshot 2026-01-28 123920.png
-)
+![TaskNest](./public/task_nest_2.png)
 ## Updated task Status
-![TaskNest](./public/Screenshot 2026-01-28 123946.png
-)
+![TaskNest](./public/task_nest_3.png)
 ## Deleting Task
-![TaskNest](./public/Screenshot 2026-01-28 123958.png
-)
+![TaskNest](./public/task_nest_4.png)
 
 
